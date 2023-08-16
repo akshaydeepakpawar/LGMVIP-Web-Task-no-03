@@ -1,0 +1,60 @@
+body{
+    font-family: 'Roboto', sans-serif;
+      background-image: url(images/bg.png);  
+      background-repeat: no-repeat;
+      background-size: cover;
+      position: relative;
+      height: 100%;
+      overflow-x: hid;
+  }
+  .heading{
+    text-align: center;
+    padding-top: 4rem;
+    font-size: 3rem;
+  }
+  .bottom{
+    text-align: center;
+  }
+  .credit{
+    font-size: medium;
+  }
+  .main-btn {
+      font-family: "Poppins", sans-serif;
+      text-transform: uppercase;
+      font-weight: 500;
+      font-size: 14px;
+      letter-spacing: 1px;
+      display: inline-block;
+      padding: 8px 28px;
+      border-radius: 50px;
+      transition: 0.5s;
+      margin: 10px;
+      border: 2px solid #fff;
+      color: #fff;
+    }
+    
+     .main-btn:hover {
+      background: #11dbcf;
+      border: 2px solid #11dbcf;
+      text-decoration: none;
+      color:#fff;
+    }
+   .form-group .btn-form{
+    background: #11dbcf;
+    border: 2px solid #11dbcf;
+    text-decoration: none;
+    color:#000;
+   }
+    .footer {
+        text-align: center;
+        background:rgba(17, 219, 207,0.8);
+      }
+      .footer .btn-back{
+        background: #fff;
+        color: #00d9ff;
+      }
+      .footer .text{
+        color: #000;
+      }
+      
+      
